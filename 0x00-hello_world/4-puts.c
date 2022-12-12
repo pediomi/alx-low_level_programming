@@ -1,7 +1,10 @@
 #include<stdio.h>
 /**
- * main - Entry point
- * Return-(0) always sucess
+ * main - print to screen
+ *
+ * Description: Outputs a string on the screen
+ *
+ * return: zero
  */
 int main(void)
 {
